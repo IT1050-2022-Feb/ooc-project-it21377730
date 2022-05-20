@@ -42,7 +42,7 @@ using namespace std;
 		 cus1.setcustomerDetails(customer_name,customer_email, customer_contactnumber,customer_address);
 		 cus1.assigncustomer_id (char c_id);
 	     cus1.assigncustomer_password(char c_password);
-		cout<<"customer details are :"<< cus1.getcustomerDetails()<<endl;
+		cout<<"customer details are :"<< cus1.getcustomerDetails()<<endl ;
 		
 		 cus2.setcustomerDetails(customer_name,customer_email, customer_contactnumber,customer_address);
 		 cus2.assigncustomer_id (char c_id);
