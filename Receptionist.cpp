@@ -40,6 +40,6 @@
  
  int main()
  {
- 	Receptionist r1(1001,"ABC","ab1");
+ 	Receptionist  r1(1001,"ABC","ab1");
  	r1.Display_details();
  }
