@@ -34,7 +34,7 @@ e1->view_email();
 e2->view_email();
 
 e1->send_email();
-e2->send_email();
+e2-> send_email();
 
 delete e1,e2
 }
